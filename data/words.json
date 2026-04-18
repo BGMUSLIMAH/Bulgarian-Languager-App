@@ -1,0 +1,3649 @@
+[
+  {
+    "bg": "да",
+    "en": "yes",
+    "category": "function",
+    "kind": "function",
+    "id": "w001"
+  },
+  {
+    "bg": "не",
+    "en": "no",
+    "category": "function",
+    "kind": "function",
+    "id": "w002"
+  },
+  {
+    "bg": "моля",
+    "en": "please",
+    "category": "function",
+    "kind": "function",
+    "id": "w003"
+  },
+  {
+    "bg": "благодаря",
+    "en": "thank you",
+    "category": "function",
+    "kind": "function",
+    "id": "w004"
+  },
+  {
+    "bg": "здравей",
+    "en": "hello",
+    "category": "function",
+    "kind": "function",
+    "id": "w005"
+  },
+  {
+    "bg": "здравейте",
+    "en": "hello / formal hello",
+    "category": "function",
+    "kind": "function",
+    "id": "w006"
+  },
+  {
+    "bg": "довиждане",
+    "en": "goodbye",
+    "category": "function",
+    "kind": "function",
+    "id": "w007"
+  },
+  {
+    "bg": "извинявай",
+    "en": "sorry / excuse me",
+    "category": "function",
+    "kind": "function",
+    "id": "w008"
+  },
+  {
+    "bg": "може би",
+    "en": "maybe",
+    "category": "function",
+    "kind": "function",
+    "id": "w009"
+  },
+  {
+    "bg": "защото",
+    "en": "because",
+    "category": "function",
+    "kind": "function",
+    "id": "w010"
+  },
+  {
+    "bg": "какво",
+    "en": "what",
+    "category": "function",
+    "kind": "function",
+    "id": "w011"
+  },
+  {
+    "bg": "кой",
+    "en": "who / which",
+    "category": "function",
+    "kind": "function",
+    "id": "w012"
+  },
+  {
+    "bg": "къде",
+    "en": "where",
+    "category": "function",
+    "kind": "function",
+    "id": "w013"
+  },
+  {
+    "bg": "кога",
+    "en": "when",
+    "category": "function",
+    "kind": "function",
+    "id": "w014"
+  },
+  {
+    "bg": "защо",
+    "en": "why",
+    "category": "function",
+    "kind": "function",
+    "id": "w015"
+  },
+  {
+    "bg": "как",
+    "en": "how",
+    "category": "function",
+    "kind": "function",
+    "id": "w016"
+  },
+  {
+    "bg": "тук",
+    "en": "here",
+    "category": "function",
+    "kind": "function",
+    "id": "w017"
+  },
+  {
+    "bg": "там",
+    "en": "there",
+    "category": "function",
+    "kind": "function",
+    "id": "w018"
+  },
+  {
+    "bg": "сега",
+    "en": "now",
+    "category": "function",
+    "kind": "function",
+    "id": "w019"
+  },
+  {
+    "bg": "после",
+    "en": "later",
+    "category": "function",
+    "kind": "function",
+    "id": "w020"
+  },
+  {
+    "bg": "вчера",
+    "en": "yesterday",
+    "category": "function",
+    "kind": "function",
+    "id": "w021"
+  },
+  {
+    "bg": "днес",
+    "en": "today",
+    "category": "function",
+    "kind": "function",
+    "id": "w022"
+  },
+  {
+    "bg": "утре",
+    "en": "tomorrow",
+    "category": "function",
+    "kind": "function",
+    "id": "w023"
+  },
+  {
+    "bg": "рано",
+    "en": "early",
+    "category": "function",
+    "kind": "function",
+    "id": "w024"
+  },
+  {
+    "bg": "късно",
+    "en": "late",
+    "category": "function",
+    "kind": "function",
+    "id": "w025"
+  },
+  {
+    "bg": "винаги",
+    "en": "always",
+    "category": "function",
+    "kind": "function",
+    "id": "w026"
+  },
+  {
+    "bg": "често",
+    "en": "often",
+    "category": "function",
+    "kind": "function",
+    "id": "w027"
+  },
+  {
+    "bg": "понякога",
+    "en": "sometimes",
+    "category": "function",
+    "kind": "function",
+    "id": "w028"
+  },
+  {
+    "bg": "никога",
+    "en": "never",
+    "category": "function",
+    "kind": "function",
+    "id": "w029"
+  },
+  {
+    "bg": "още",
+    "en": "still / also",
+    "category": "function",
+    "kind": "function",
+    "id": "w030"
+  },
+  {
+    "bg": "много",
+    "en": "very / many",
+    "category": "function",
+    "kind": "function",
+    "id": "w031"
+  },
+  {
+    "bg": "повече",
+    "en": "more",
+    "category": "function",
+    "kind": "function",
+    "id": "w032"
+  },
+  {
+    "bg": "по-малко",
+    "en": "less",
+    "category": "function",
+    "kind": "function",
+    "id": "w033"
+  },
+  {
+    "bg": "същия",
+    "en": "same",
+    "category": "function",
+    "kind": "function",
+    "id": "w034"
+  },
+  {
+    "bg": "различен",
+    "en": "different",
+    "category": "function",
+    "kind": "function",
+    "id": "w035"
+  },
+  {
+    "bg": "близо",
+    "en": "near",
+    "category": "function",
+    "kind": "function",
+    "id": "w036"
+  },
+  {
+    "bg": "далеч",
+    "en": "far",
+    "category": "function",
+    "kind": "function",
+    "id": "w037"
+  },
+  {
+    "bg": "вътре",
+    "en": "inside",
+    "category": "function",
+    "kind": "function",
+    "id": "w038"
+  },
+  {
+    "bg": "вън",
+    "en": "outside",
+    "category": "function",
+    "kind": "function",
+    "id": "w039"
+  },
+  {
+    "bg": "възможен",
+    "en": "possible",
+    "category": "function",
+    "kind": "adjective",
+    "id": "w040"
+  },
+  {
+    "bg": "невъзможен",
+    "en": "impossible",
+    "category": "function",
+    "kind": "adjective",
+    "id": "w041"
+  },
+  {
+    "bg": "нула",
+    "en": "zero",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w042"
+  },
+  {
+    "bg": "едно",
+    "en": "one",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w043"
+  },
+  {
+    "bg": "две",
+    "en": "two",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w044"
+  },
+  {
+    "bg": "три",
+    "en": "three",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w045"
+  },
+  {
+    "bg": "четири",
+    "en": "four",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w046"
+  },
+  {
+    "bg": "пет",
+    "en": "five",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w047"
+  },
+  {
+    "bg": "шест",
+    "en": "six",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w048"
+  },
+  {
+    "bg": "седем",
+    "en": "seven",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w049"
+  },
+  {
+    "bg": "осем",
+    "en": "eight",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w050"
+  },
+  {
+    "bg": "девет",
+    "en": "nine",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w051"
+  },
+  {
+    "bg": "десет",
+    "en": "ten",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w052"
+  },
+  {
+    "bg": "единадесет",
+    "en": "eleven",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w053"
+  },
+  {
+    "bg": "дванадесет",
+    "en": "twelve",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w054"
+  },
+  {
+    "bg": "тринадесет",
+    "en": "thirteen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w055"
+  },
+  {
+    "bg": "четиринадесет",
+    "en": "fourteen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w056"
+  },
+  {
+    "bg": "петнадесет",
+    "en": "fifteen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w057"
+  },
+  {
+    "bg": "шестнадесет",
+    "en": "sixteen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w058"
+  },
+  {
+    "bg": "седемнадесет",
+    "en": "seventeen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w059"
+  },
+  {
+    "bg": "осемнадесет",
+    "en": "eighteen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w060"
+  },
+  {
+    "bg": "деветнадесет",
+    "en": "nineteen",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w061"
+  },
+  {
+    "bg": "двадесет",
+    "en": "twenty",
+    "category": "time_numbers",
+    "kind": "number",
+    "id": "w062"
+  },
+  {
+    "bg": "час",
+    "en": "hour",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w063"
+  },
+  {
+    "bg": "минута",
+    "en": "minute",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w064"
+  },
+  {
+    "bg": "секунда",
+    "en": "second",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w065"
+  },
+  {
+    "bg": "сутрин",
+    "en": "morning",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w066"
+  },
+  {
+    "bg": "обед",
+    "en": "noon",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w067"
+  },
+  {
+    "bg": "следобед",
+    "en": "afternoon",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w068"
+  },
+  {
+    "bg": "вечер",
+    "en": "evening",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w069"
+  },
+  {
+    "bg": "нощ",
+    "en": "night",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w070"
+  },
+  {
+    "bg": "ден",
+    "en": "day",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w071"
+  },
+  {
+    "bg": "седмица",
+    "en": "week",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w072"
+  },
+  {
+    "bg": "месец",
+    "en": "month",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w073"
+  },
+  {
+    "bg": "година",
+    "en": "year",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w074"
+  },
+  {
+    "bg": "понеделник",
+    "en": "Monday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w075"
+  },
+  {
+    "bg": "вторник",
+    "en": "Tuesday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w076"
+  },
+  {
+    "bg": "сряда",
+    "en": "Wednesday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w077"
+  },
+  {
+    "bg": "четвъртък",
+    "en": "Thursday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w078"
+  },
+  {
+    "bg": "петък",
+    "en": "Friday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w079"
+  },
+  {
+    "bg": "събота",
+    "en": "Saturday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w080"
+  },
+  {
+    "bg": "неделя",
+    "en": "Sunday",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w081"
+  },
+  {
+    "bg": "първи",
+    "en": "first",
+    "category": "time_numbers",
+    "kind": "adjective",
+    "id": "w082"
+  },
+  {
+    "bg": "последен",
+    "en": "last",
+    "category": "time_numbers",
+    "kind": "adjective",
+    "id": "w083"
+  },
+  {
+    "bg": "следващ",
+    "en": "next",
+    "category": "time_numbers",
+    "kind": "adjective",
+    "id": "w084"
+  },
+  {
+    "bg": "преди",
+    "en": "before",
+    "category": "time_numbers",
+    "kind": "function",
+    "id": "w085"
+  },
+  {
+    "bg": "след",
+    "en": "after",
+    "category": "time_numbers",
+    "kind": "function",
+    "id": "w086"
+  },
+  {
+    "bg": "през",
+    "en": "during / through",
+    "category": "time_numbers",
+    "kind": "function",
+    "id": "w087"
+  },
+  {
+    "bg": "навреме",
+    "en": "on time",
+    "category": "time_numbers",
+    "kind": "adverb",
+    "id": "w088"
+  },
+  {
+    "bg": "време",
+    "en": "time / weather",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w089"
+  },
+  {
+    "bg": "часовник",
+    "en": "clock / watch",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w090"
+  },
+  {
+    "bg": "график",
+    "en": "schedule",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w091"
+  },
+  {
+    "bg": "срок",
+    "en": "deadline",
+    "category": "time_numbers",
+    "kind": "noun",
+    "id": "w092"
+  },
+  {
+    "bg": "дом",
+    "en": "home",
+    "category": "home",
+    "kind": "noun",
+    "id": "w093"
+  },
+  {
+    "bg": "къща",
+    "en": "house",
+    "category": "home",
+    "kind": "noun",
+    "id": "w094"
+  },
+  {
+    "bg": "апартамент",
+    "en": "apartment",
+    "category": "home",
+    "kind": "noun",
+    "id": "w095"
+  },
+  {
+    "bg": "стая",
+    "en": "room",
+    "category": "home",
+    "kind": "noun",
+    "id": "w096"
+  },
+  {
+    "bg": "кухня",
+    "en": "kitchen",
+    "category": "home",
+    "kind": "noun",
+    "id": "w097"
+  },
+  {
+    "bg": "баня",
+    "en": "bathroom",
+    "category": "home",
+    "kind": "noun",
+    "id": "w098"
+  },
+  {
+    "bg": "спалня",
+    "en": "bedroom",
+    "category": "home",
+    "kind": "noun",
+    "id": "w099"
+  },
+  {
+    "bg": "дневна",
+    "en": "living room",
+    "category": "home",
+    "kind": "noun",
+    "id": "w100"
+  },
+  {
+    "bg": "коридор",
+    "en": "hallway",
+    "category": "home",
+    "kind": "noun",
+    "id": "w101"
+  },
+  {
+    "bg": "врата",
+    "en": "door",
+    "category": "home",
+    "kind": "noun",
+    "id": "w102"
+  },
+  {
+    "bg": "прозорец",
+    "en": "window",
+    "category": "home",
+    "kind": "noun",
+    "id": "w103"
+  },
+  {
+    "bg": "легло",
+    "en": "bed",
+    "category": "home",
+    "kind": "noun",
+    "id": "w104"
+  },
+  {
+    "bg": "маса",
+    "en": "table",
+    "category": "home",
+    "kind": "noun",
+    "id": "w105"
+  },
+  {
+    "bg": "стол",
+    "en": "chair",
+    "category": "home",
+    "kind": "noun",
+    "id": "w106"
+  },
+  {
+    "bg": "диван",
+    "en": "sofa",
+    "category": "home",
+    "kind": "noun",
+    "id": "w107"
+  },
+  {
+    "bg": "шкаф",
+    "en": "wardrobe / cabinet",
+    "category": "home",
+    "kind": "noun",
+    "id": "w108"
+  },
+  {
+    "bg": "рафт",
+    "en": "shelf",
+    "category": "home",
+    "kind": "noun",
+    "id": "w109"
+  },
+  {
+    "bg": "лампа",
+    "en": "lamp",
+    "category": "home",
+    "kind": "noun",
+    "id": "w110"
+  },
+  {
+    "bg": "ключ",
+    "en": "key",
+    "category": "home",
+    "kind": "noun",
+    "id": "w111"
+  },
+  {
+    "bg": "календар",
+    "en": "calendar",
+    "category": "home",
+    "kind": "noun",
+    "id": "w112"
+  },
+  {
+    "bg": "огледало",
+    "en": "mirror",
+    "category": "home",
+    "kind": "noun",
+    "id": "w113"
+  },
+  {
+    "bg": "възглавница",
+    "en": "pillow",
+    "category": "home",
+    "kind": "noun",
+    "id": "w114"
+  },
+  {
+    "bg": "одеяло",
+    "en": "blanket",
+    "category": "home",
+    "kind": "noun",
+    "id": "w115"
+  },
+  {
+    "bg": "завивка",
+    "en": "duvet",
+    "category": "home",
+    "kind": "noun",
+    "id": "w116"
+  },
+  {
+    "bg": "чаршаф",
+    "en": "sheet",
+    "category": "home",
+    "kind": "noun",
+    "id": "w117"
+  },
+  {
+    "bg": "кърпа",
+    "en": "towel",
+    "category": "home",
+    "kind": "noun",
+    "id": "w118"
+  },
+  {
+    "bg": "чаша",
+    "en": "glass / cup",
+    "category": "home",
+    "kind": "noun",
+    "id": "w119"
+  },
+  {
+    "bg": "чиния",
+    "en": "plate",
+    "category": "home",
+    "kind": "noun",
+    "id": "w120"
+  },
+  {
+    "bg": "вилица",
+    "en": "fork",
+    "category": "home",
+    "kind": "noun",
+    "id": "w121"
+  },
+  {
+    "bg": "нож",
+    "en": "knife",
+    "category": "home",
+    "kind": "noun",
+    "id": "w122"
+  },
+  {
+    "bg": "лъжица",
+    "en": "spoon",
+    "category": "home",
+    "kind": "noun",
+    "id": "w123"
+  },
+  {
+    "bg": "тенджера",
+    "en": "pot",
+    "category": "home",
+    "kind": "noun",
+    "id": "w124"
+  },
+  {
+    "bg": "тиган",
+    "en": "pan",
+    "category": "home",
+    "kind": "noun",
+    "id": "w125"
+  },
+  {
+    "bg": "печка",
+    "en": "stove",
+    "category": "home",
+    "kind": "noun",
+    "id": "w126"
+  },
+  {
+    "bg": "фурна",
+    "en": "oven",
+    "category": "home",
+    "kind": "noun",
+    "id": "w127"
+  },
+  {
+    "bg": "хладилник",
+    "en": "fridge",
+    "category": "home",
+    "kind": "noun",
+    "id": "w128"
+  },
+  {
+    "bg": "пералня",
+    "en": "washing machine",
+    "category": "home",
+    "kind": "noun",
+    "id": "w129"
+  },
+  {
+    "bg": "сушилня",
+    "en": "dryer",
+    "category": "home",
+    "kind": "noun",
+    "id": "w130"
+  },
+  {
+    "bg": "прахосмукачка",
+    "en": "vacuum cleaner",
+    "category": "home",
+    "kind": "noun",
+    "id": "w131"
+  },
+  {
+    "bg": "балкон",
+    "en": "balcony",
+    "category": "home",
+    "kind": "noun",
+    "id": "w132"
+  },
+  {
+    "bg": "мазе",
+    "en": "basement",
+    "category": "home",
+    "kind": "noun",
+    "id": "w133"
+  },
+  {
+    "bg": "асансьор",
+    "en": "elevator",
+    "category": "home",
+    "kind": "noun",
+    "id": "w134"
+  },
+  {
+    "bg": "наем",
+    "en": "rent",
+    "category": "home",
+    "kind": "noun",
+    "id": "w135"
+  },
+  {
+    "bg": "хазяин",
+    "en": "landlord",
+    "category": "home",
+    "kind": "noun",
+    "id": "w136"
+  },
+  {
+    "bg": "съсед",
+    "en": "neighbor",
+    "category": "home",
+    "kind": "noun",
+    "id": "w137"
+  },
+  {
+    "bg": "адрес",
+    "en": "address",
+    "category": "home",
+    "kind": "noun",
+    "id": "w138"
+  },
+  {
+    "bg": "квартал",
+    "en": "neighborhood",
+    "category": "home",
+    "kind": "noun",
+    "id": "w139"
+  },
+  {
+    "bg": "мебел",
+    "en": "furniture",
+    "category": "home",
+    "kind": "noun",
+    "id": "w140"
+  },
+  {
+    "bg": "обзавеждане",
+    "en": "furnishing",
+    "category": "home",
+    "kind": "noun",
+    "id": "w141"
+  },
+  {
+    "bg": "чист",
+    "en": "clean",
+    "category": "home",
+    "kind": "adjective",
+    "id": "w142"
+  },
+  {
+    "bg": "мръсен",
+    "en": "dirty",
+    "category": "home",
+    "kind": "adjective",
+    "id": "w143"
+  },
+  {
+    "bg": "работа",
+    "en": "work",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w144"
+  },
+  {
+    "bg": "служител",
+    "en": "employee",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w145"
+  },
+  {
+    "bg": "колега",
+    "en": "colleague",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w146"
+  },
+  {
+    "bg": "шеф",
+    "en": "boss",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w147"
+  },
+  {
+    "bg": "екип",
+    "en": "team",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w148"
+  },
+  {
+    "bg": "клиент",
+    "en": "client",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w149"
+  },
+  {
+    "bg": "проект",
+    "en": "project",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w150"
+  },
+  {
+    "bg": "задача",
+    "en": "task",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w151"
+  },
+  {
+    "bg": "среща",
+    "en": "meeting",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w152"
+  },
+  {
+    "bg": "интервю",
+    "en": "interview",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w153"
+  },
+  {
+    "bg": "офис",
+    "en": "office",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w154"
+  },
+  {
+    "bg": "отдел",
+    "en": "department",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w155"
+  },
+  {
+    "bg": "служба",
+    "en": "service / office",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w156"
+  },
+  {
+    "bg": "график",
+    "en": "schedule",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w157"
+  },
+  {
+    "bg": "смяна",
+    "en": "shift",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w158"
+  },
+  {
+    "bg": "заплата",
+    "en": "salary",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w159"
+  },
+  {
+    "bg": "договор",
+    "en": "contract",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w160"
+  },
+  {
+    "bg": "срок",
+    "en": "deadline",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w161"
+  },
+  {
+    "bg": "отчет",
+    "en": "report",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w162"
+  },
+  {
+    "bg": "доклад",
+    "en": "report / presentation",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w163"
+  },
+  {
+    "bg": "документ",
+    "en": "document",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w164"
+  },
+  {
+    "bg": "файл",
+    "en": "file",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w165"
+  },
+  {
+    "bg": "имейл",
+    "en": "email",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w166"
+  },
+  {
+    "bg": "телефон",
+    "en": "phone",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w167"
+  },
+  {
+    "bg": "принтер",
+    "en": "printer",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w168"
+  },
+  {
+    "bg": "компютър",
+    "en": "computer",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w169"
+  },
+  {
+    "bg": "екран",
+    "en": "screen",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w170"
+  },
+  {
+    "bg": "клавиатура",
+    "en": "keyboard",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w171"
+  },
+  {
+    "bg": "мишка",
+    "en": "mouse",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w172"
+  },
+  {
+    "bg": "папка",
+    "en": "folder",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w173"
+  },
+  {
+    "bg": "архив",
+    "en": "archive",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w174"
+  },
+  {
+    "bg": "подпис",
+    "en": "signature",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w175"
+  },
+  {
+    "bg": "печат",
+    "en": "stamp",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w176"
+  },
+  {
+    "bg": "обучение",
+    "en": "training",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w177"
+  },
+  {
+    "bg": "опит",
+    "en": "experience",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w178"
+  },
+  {
+    "bg": "умение",
+    "en": "skill",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w179"
+  },
+  {
+    "bg": "качество",
+    "en": "quality",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w180"
+  },
+  {
+    "bg": "решение",
+    "en": "decision",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w181"
+  },
+  {
+    "bg": "проблем",
+    "en": "problem",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w182"
+  },
+  {
+    "bg": "въпрос",
+    "en": "question",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w183"
+  },
+  {
+    "bg": "отговор",
+    "en": "answer",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w184"
+  },
+  {
+    "bg": "инструкция",
+    "en": "instruction",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w185"
+  },
+  {
+    "bg": "процедура",
+    "en": "procedure",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w186"
+  },
+  {
+    "bg": "правило",
+    "en": "rule",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w187"
+  },
+  {
+    "bg": "стандарт",
+    "en": "standard",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w188"
+  },
+  {
+    "bg": "контрол",
+    "en": "control",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w189"
+  },
+  {
+    "bg": "проверка",
+    "en": "check / inspection",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w190"
+  },
+  {
+    "bg": "безопасност",
+    "en": "safety",
+    "category": "work_office",
+    "kind": "noun",
+    "id": "w191"
+  },
+  {
+    "bg": "срочен",
+    "en": "timely",
+    "category": "work_office",
+    "kind": "adjective",
+    "id": "w192"
+  },
+  {
+    "bg": "важен",
+    "en": "important",
+    "category": "work_office",
+    "kind": "adjective",
+    "id": "w193"
+  },
+  {
+    "bg": "автомобил",
+    "en": "car / automobile",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w194"
+  },
+  {
+    "bg": "кола",
+    "en": "car",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w195"
+  },
+  {
+    "bg": "мотор",
+    "en": "motorbike / engine",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w196"
+  },
+  {
+    "bg": "двигател",
+    "en": "engine",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w197"
+  },
+  {
+    "bg": "капак",
+    "en": "hood",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w198"
+  },
+  {
+    "bg": "багажник",
+    "en": "trunk",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w199"
+  },
+  {
+    "bg": "гума",
+    "en": "tire",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w200"
+  },
+  {
+    "bg": "джанта",
+    "en": "rim",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w201"
+  },
+  {
+    "bg": "спирачка",
+    "en": "brake",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w202"
+  },
+  {
+    "bg": "волан",
+    "en": "steering wheel",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w203"
+  },
+  {
+    "bg": "фар",
+    "en": "headlight",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w204"
+  },
+  {
+    "bg": "мигач",
+    "en": "indicator / turn signal",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w205"
+  },
+  {
+    "bg": "акумулатор",
+    "en": "battery",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w206"
+  },
+  {
+    "bg": "батерия",
+    "en": "battery",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w207"
+  },
+  {
+    "bg": "кабел",
+    "en": "cable",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w208"
+  },
+  {
+    "bg": "проводник",
+    "en": "wire / conductor",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w209"
+  },
+  {
+    "bg": "сензор",
+    "en": "sensor",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w210"
+  },
+  {
+    "bg": "филтър",
+    "en": "filter",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w211"
+  },
+  {
+    "bg": "ремък",
+    "en": "belt",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w212"
+  },
+  {
+    "bg": "верига",
+    "en": "chain",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w213"
+  },
+  {
+    "bg": "болт",
+    "en": "bolt",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w214"
+  },
+  {
+    "bg": "гайка",
+    "en": "nut",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w215"
+  },
+  {
+    "bg": "винт",
+    "en": "screw",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w216"
+  },
+  {
+    "bg": "отвертка",
+    "en": "screwdriver",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w217"
+  },
+  {
+    "bg": "гаечен ключ",
+    "en": "wrench",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w218"
+  },
+  {
+    "bg": "клещи",
+    "en": "pliers",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w219"
+  },
+  {
+    "bg": "чук",
+    "en": "hammer",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w220"
+  },
+  {
+    "bg": "крик",
+    "en": "jack",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w221"
+  },
+  {
+    "bg": "компресор",
+    "en": "compressor",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w222"
+  },
+  {
+    "bg": "маркуч",
+    "en": "hose",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w223"
+  },
+  {
+    "bg": "тръба",
+    "en": "pipe",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w224"
+  },
+  {
+    "bg": "помпа",
+    "en": "pump",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w225"
+  },
+  {
+    "bg": "радиатор",
+    "en": "radiator",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w226"
+  },
+  {
+    "bg": "охладител",
+    "en": "coolant",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w227"
+  },
+  {
+    "bg": "съединител",
+    "en": "clutch",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w228"
+  },
+  {
+    "bg": "скоростна кутия",
+    "en": "gearbox",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w229"
+  },
+  {
+    "bg": "предавка",
+    "en": "gear",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w230"
+  },
+  {
+    "bg": "налягане",
+    "en": "pressure",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w231"
+  },
+  {
+    "bg": "течност",
+    "en": "fluid",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w232"
+  },
+  {
+    "bg": "диагностика",
+    "en": "diagnostics",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w233"
+  },
+  {
+    "bg": "сервиз",
+    "en": "service / garage",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w234"
+  },
+  {
+    "bg": "гараж",
+    "en": "garage",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w235"
+  },
+  {
+    "bg": "резервна част",
+    "en": "spare part",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w236"
+  },
+  {
+    "bg": "част",
+    "en": "part",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w237"
+  },
+  {
+    "bg": "повреда",
+    "en": "fault / damage",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w238"
+  },
+  {
+    "bg": "дефект",
+    "en": "defect",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w239"
+  },
+  {
+    "bg": "инспекция",
+    "en": "inspection",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w240"
+  },
+  {
+    "bg": "поддръжка",
+    "en": "maintenance",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w241"
+  },
+  {
+    "bg": "ремонт",
+    "en": "repair",
+    "category": "mechanic",
+    "kind": "noun",
+    "id": "w242"
+  },
+  {
+    "bg": "автобус",
+    "en": "bus",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w243"
+  },
+  {
+    "bg": "влак",
+    "en": "train",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w244"
+  },
+  {
+    "bg": "метро",
+    "en": "metro",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w245"
+  },
+  {
+    "bg": "такси",
+    "en": "taxi",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w246"
+  },
+  {
+    "bg": "самолет",
+    "en": "airplane",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w247"
+  },
+  {
+    "bg": "летище",
+    "en": "airport",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w248"
+  },
+  {
+    "bg": "гара",
+    "en": "station",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w249"
+  },
+  {
+    "bg": "спирка",
+    "en": "stop",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w250"
+  },
+  {
+    "bg": "билет",
+    "en": "ticket",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w251"
+  },
+  {
+    "bg": "маршрут",
+    "en": "route",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w252"
+  },
+  {
+    "bg": "посока",
+    "en": "direction",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w253"
+  },
+  {
+    "bg": "път",
+    "en": "road / way",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w254"
+  },
+  {
+    "bg": "улица",
+    "en": "street",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w255"
+  },
+  {
+    "bg": "кръстовище",
+    "en": "intersection",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w256"
+  },
+  {
+    "bg": "светофар",
+    "en": "traffic light",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w257"
+  },
+  {
+    "bg": "мост",
+    "en": "bridge",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w258"
+  },
+  {
+    "bg": "тунел",
+    "en": "tunnel",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w259"
+  },
+  {
+    "bg": "паркинг",
+    "en": "parking lot",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w260"
+  },
+  {
+    "bg": "шофьор",
+    "en": "driver",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w261"
+  },
+  {
+    "bg": "пътник",
+    "en": "passenger",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w262"
+  },
+  {
+    "bg": "багаж",
+    "en": "luggage",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w263"
+  },
+  {
+    "bg": "куфар",
+    "en": "suitcase",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w264"
+  },
+  {
+    "bg": "пътуване",
+    "en": "trip / travel",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w265"
+  },
+  {
+    "bg": "карта",
+    "en": "map / card",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w266"
+  },
+  {
+    "bg": "паспорт",
+    "en": "passport",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w267"
+  },
+  {
+    "bg": "виза",
+    "en": "visa",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w268"
+  },
+  {
+    "bg": "резервация",
+    "en": "reservation",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w269"
+  },
+  {
+    "bg": "хотел",
+    "en": "hotel",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w270"
+  },
+  {
+    "bg": "туризъм",
+    "en": "tourism",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w271"
+  },
+  {
+    "bg": "почивка",
+    "en": "vacation / rest",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w272"
+  },
+  {
+    "bg": "движение",
+    "en": "traffic / movement",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w273"
+  },
+  {
+    "bg": "скорост",
+    "en": "speed",
+    "category": "transport",
+    "kind": "noun",
+    "id": "w274"
+  },
+  {
+    "bg": "хляб",
+    "en": "bread",
+    "category": "food",
+    "kind": "noun",
+    "id": "w275"
+  },
+  {
+    "bg": "вода",
+    "en": "water",
+    "category": "food",
+    "kind": "noun",
+    "id": "w276"
+  },
+  {
+    "bg": "мляко",
+    "en": "milk",
+    "category": "food",
+    "kind": "noun",
+    "id": "w277"
+  },
+  {
+    "bg": "кафе",
+    "en": "coffee",
+    "category": "food",
+    "kind": "noun",
+    "id": "w278"
+  },
+  {
+    "bg": "чай",
+    "en": "tea",
+    "category": "food",
+    "kind": "noun",
+    "id": "w279"
+  },
+  {
+    "bg": "сок",
+    "en": "juice",
+    "category": "food",
+    "kind": "noun",
+    "id": "w280"
+  },
+  {
+    "bg": "месо",
+    "en": "meat",
+    "category": "food",
+    "kind": "noun",
+    "id": "w281"
+  },
+  {
+    "bg": "риба",
+    "en": "fish",
+    "category": "food",
+    "kind": "noun",
+    "id": "w282"
+  },
+  {
+    "bg": "яйце",
+    "en": "egg",
+    "category": "food",
+    "kind": "noun",
+    "id": "w283"
+  },
+  {
+    "bg": "ориз",
+    "en": "rice",
+    "category": "food",
+    "kind": "noun",
+    "id": "w284"
+  },
+  {
+    "bg": "картоф",
+    "en": "potato",
+    "category": "food",
+    "kind": "noun",
+    "id": "w285"
+  },
+  {
+    "bg": "домат",
+    "en": "tomato",
+    "category": "food",
+    "kind": "noun",
+    "id": "w286"
+  },
+  {
+    "bg": "краставица",
+    "en": "cucumber",
+    "category": "food",
+    "kind": "noun",
+    "id": "w287"
+  },
+  {
+    "bg": "лук",
+    "en": "onion",
+    "category": "food",
+    "kind": "noun",
+    "id": "w288"
+  },
+  {
+    "bg": "чесън",
+    "en": "garlic",
+    "category": "food",
+    "kind": "noun",
+    "id": "w289"
+  },
+  {
+    "bg": "салата",
+    "en": "salad",
+    "category": "food",
+    "kind": "noun",
+    "id": "w290"
+  },
+  {
+    "bg": "плод",
+    "en": "fruit",
+    "category": "food",
+    "kind": "noun",
+    "id": "w291"
+  },
+  {
+    "bg": "ябълка",
+    "en": "apple",
+    "category": "food",
+    "kind": "noun",
+    "id": "w292"
+  },
+  {
+    "bg": "банан",
+    "en": "banana",
+    "category": "food",
+    "kind": "noun",
+    "id": "w293"
+  },
+  {
+    "bg": "портокал",
+    "en": "orange",
+    "category": "food",
+    "kind": "noun",
+    "id": "w294"
+  },
+  {
+    "bg": "грозде",
+    "en": "grapes",
+    "category": "food",
+    "kind": "noun",
+    "id": "w295"
+  },
+  {
+    "bg": "сирене",
+    "en": "cheese",
+    "category": "food",
+    "kind": "noun",
+    "id": "w296"
+  },
+  {
+    "bg": "кашкавал",
+    "en": "yellow cheese",
+    "category": "food",
+    "kind": "noun",
+    "id": "w297"
+  },
+  {
+    "bg": "кисело мляко",
+    "en": "yogurt",
+    "category": "food",
+    "kind": "noun",
+    "id": "w298"
+  },
+  {
+    "bg": "масло",
+    "en": "butter / oil",
+    "category": "food",
+    "kind": "noun",
+    "id": "w299"
+  },
+  {
+    "bg": "сол",
+    "en": "salt",
+    "category": "food",
+    "kind": "noun",
+    "id": "w300"
+  },
+  {
+    "bg": "захар",
+    "en": "sugar",
+    "category": "food",
+    "kind": "noun",
+    "id": "w301"
+  },
+  {
+    "bg": "мед",
+    "en": "honey",
+    "category": "food",
+    "kind": "noun",
+    "id": "w302"
+  },
+  {
+    "bg": "супа",
+    "en": "soup",
+    "category": "food",
+    "kind": "noun",
+    "id": "w303"
+  },
+  {
+    "bg": "ястие",
+    "en": "dish / meal",
+    "category": "food",
+    "kind": "noun",
+    "id": "w304"
+  },
+  {
+    "bg": "закуска",
+    "en": "breakfast",
+    "category": "food",
+    "kind": "noun",
+    "id": "w305"
+  },
+  {
+    "bg": "обяд",
+    "en": "lunch",
+    "category": "food",
+    "kind": "noun",
+    "id": "w306"
+  },
+  {
+    "bg": "вечеря",
+    "en": "dinner",
+    "category": "food",
+    "kind": "noun",
+    "id": "w307"
+  },
+  {
+    "bg": "пазар",
+    "en": "market",
+    "category": "food",
+    "kind": "noun",
+    "id": "w308"
+  },
+  {
+    "bg": "магазин",
+    "en": "shop",
+    "category": "food",
+    "kind": "noun",
+    "id": "w309"
+  },
+  {
+    "bg": "супермаркет",
+    "en": "supermarket",
+    "category": "food",
+    "kind": "noun",
+    "id": "w310"
+  },
+  {
+    "bg": "цена",
+    "en": "price",
+    "category": "food",
+    "kind": "noun",
+    "id": "w311"
+  },
+  {
+    "bg": "промоция",
+    "en": "promotion / sale",
+    "category": "food",
+    "kind": "noun",
+    "id": "w312"
+  },
+  {
+    "bg": "каса",
+    "en": "checkout / cash desk",
+    "category": "food",
+    "kind": "noun",
+    "id": "w313"
+  },
+  {
+    "bg": "касов бон",
+    "en": "receipt",
+    "category": "food",
+    "kind": "noun",
+    "id": "w314"
+  },
+  {
+    "bg": "количка",
+    "en": "shopping cart",
+    "category": "food",
+    "kind": "noun",
+    "id": "w315"
+  },
+  {
+    "bg": "кошница",
+    "en": "basket",
+    "category": "food",
+    "kind": "noun",
+    "id": "w316"
+  },
+  {
+    "bg": "пакет",
+    "en": "bag / package",
+    "category": "food",
+    "kind": "noun",
+    "id": "w317"
+  },
+  {
+    "bg": "бутилка",
+    "en": "bottle",
+    "category": "food",
+    "kind": "noun",
+    "id": "w318"
+  },
+  {
+    "bg": "кутия",
+    "en": "box",
+    "category": "food",
+    "kind": "noun",
+    "id": "w319"
+  },
+  {
+    "bg": "буркан",
+    "en": "jar",
+    "category": "food",
+    "kind": "noun",
+    "id": "w320"
+  },
+  {
+    "bg": "килограм",
+    "en": "kilogram",
+    "category": "food",
+    "kind": "noun",
+    "id": "w321"
+  },
+  {
+    "bg": "грам",
+    "en": "gram",
+    "category": "food",
+    "kind": "noun",
+    "id": "w322"
+  },
+  {
+    "bg": "вкус",
+    "en": "taste",
+    "category": "food",
+    "kind": "noun",
+    "id": "w323"
+  },
+  {
+    "bg": "свеж",
+    "en": "fresh",
+    "category": "food",
+    "kind": "adjective",
+    "id": "w324"
+  },
+  {
+    "bg": "сладък",
+    "en": "sweet",
+    "category": "food",
+    "kind": "adjective",
+    "id": "w325"
+  },
+  {
+    "bg": "тяло",
+    "en": "body",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w326"
+  },
+  {
+    "bg": "глава",
+    "en": "head",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w327"
+  },
+  {
+    "bg": "лице",
+    "en": "face",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w328"
+  },
+  {
+    "bg": "око",
+    "en": "eye",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w329"
+  },
+  {
+    "bg": "уста",
+    "en": "mouth",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w330"
+  },
+  {
+    "bg": "език",
+    "en": "tongue / language",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w331"
+  },
+  {
+    "bg": "ухо",
+    "en": "ear",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w332"
+  },
+  {
+    "bg": "нос",
+    "en": "nose",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w333"
+  },
+  {
+    "bg": "зъб",
+    "en": "tooth",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w334"
+  },
+  {
+    "bg": "ръка",
+    "en": "hand / arm",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w335"
+  },
+  {
+    "bg": "крак",
+    "en": "leg / foot",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w336"
+  },
+  {
+    "bg": "гръб",
+    "en": "back",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w337"
+  },
+  {
+    "bg": "корем",
+    "en": "belly",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w338"
+  },
+  {
+    "bg": "сърце",
+    "en": "heart",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w339"
+  },
+  {
+    "bg": "кожа",
+    "en": "skin",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w340"
+  },
+  {
+    "bg": "болка",
+    "en": "pain",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w341"
+  },
+  {
+    "bg": "температура",
+    "en": "temperature / fever",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w342"
+  },
+  {
+    "bg": "симптом",
+    "en": "symptom",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w343"
+  },
+  {
+    "bg": "кашлица",
+    "en": "cough",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w344"
+  },
+  {
+    "bg": "грип",
+    "en": "flu",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w345"
+  },
+  {
+    "bg": "рана",
+    "en": "wound",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w346"
+  },
+  {
+    "bg": "кръв",
+    "en": "blood",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w347"
+  },
+  {
+    "bg": "лекар",
+    "en": "doctor",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w348"
+  },
+  {
+    "bg": "болница",
+    "en": "hospital",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w349"
+  },
+  {
+    "bg": "аптека",
+    "en": "pharmacy",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w350"
+  },
+  {
+    "bg": "лекарство",
+    "en": "medicine",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w351"
+  },
+  {
+    "bg": "преглед",
+    "en": "check-up",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w352"
+  },
+  {
+    "bg": "рецепта",
+    "en": "prescription / recipe",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w353"
+  },
+  {
+    "bg": "здраве",
+    "en": "health",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w354"
+  },
+  {
+    "bg": "почивка",
+    "en": "rest",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w355"
+  },
+  {
+    "bg": "сън",
+    "en": "sleep",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w356"
+  },
+  {
+    "bg": "умора",
+    "en": "fatigue",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w357"
+  },
+  {
+    "bg": "стрес",
+    "en": "stress",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w358"
+  },
+  {
+    "bg": "енергия",
+    "en": "energy",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w359"
+  },
+  {
+    "bg": "сила",
+    "en": "strength",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w360"
+  },
+  {
+    "bg": "настроение",
+    "en": "mood",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w361"
+  },
+  {
+    "bg": "страх",
+    "en": "fear",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w362"
+  },
+  {
+    "bg": "радост",
+    "en": "joy",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w363"
+  },
+  {
+    "bg": "тревога",
+    "en": "worry",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w364"
+  },
+  {
+    "bg": "ваксина",
+    "en": "vaccine",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w365"
+  },
+  {
+    "bg": "зъболекар",
+    "en": "dentist",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w366"
+  },
+  {
+    "bg": "операция",
+    "en": "operation",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w367"
+  },
+  {
+    "bg": "зрение",
+    "en": "vision",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w368"
+  },
+  {
+    "bg": "слух",
+    "en": "hearing",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w369"
+  },
+  {
+    "bg": "въздух",
+    "en": "air",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w370"
+  },
+  {
+    "bg": "движение",
+    "en": "movement",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w371"
+  },
+  {
+    "bg": "дишане",
+    "en": "breathing",
+    "category": "body_health",
+    "kind": "noun",
+    "id": "w372"
+  },
+  {
+    "bg": "здравословен",
+    "en": "healthy",
+    "category": "body_health",
+    "kind": "adjective",
+    "id": "w373"
+  },
+  {
+    "bg": "болен",
+    "en": "sick",
+    "category": "body_health",
+    "kind": "adjective",
+    "id": "w374"
+  },
+  {
+    "bg": "природа",
+    "en": "nature",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w375"
+  },
+  {
+    "bg": "време",
+    "en": "weather",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w376"
+  },
+  {
+    "bg": "дъжд",
+    "en": "rain",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w377"
+  },
+  {
+    "bg": "сняг",
+    "en": "snow",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w378"
+  },
+  {
+    "bg": "вятър",
+    "en": "wind",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w379"
+  },
+  {
+    "bg": "слънце",
+    "en": "sun",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w380"
+  },
+  {
+    "bg": "облак",
+    "en": "cloud",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w381"
+  },
+  {
+    "bg": "небе",
+    "en": "sky",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w382"
+  },
+  {
+    "bg": "земя",
+    "en": "earth / ground",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w383"
+  },
+  {
+    "bg": "море",
+    "en": "sea",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w384"
+  },
+  {
+    "bg": "река",
+    "en": "river",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w385"
+  },
+  {
+    "bg": "езеро",
+    "en": "lake",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w386"
+  },
+  {
+    "bg": "планина",
+    "en": "mountain",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w387"
+  },
+  {
+    "bg": "гора",
+    "en": "forest",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w388"
+  },
+  {
+    "bg": "парк",
+    "en": "park",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w389"
+  },
+  {
+    "bg": "поле",
+    "en": "field",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w390"
+  },
+  {
+    "bg": "дърво",
+    "en": "tree",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w391"
+  },
+  {
+    "bg": "цвете",
+    "en": "flower",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w392"
+  },
+  {
+    "bg": "трева",
+    "en": "grass",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w393"
+  },
+  {
+    "bg": "лист",
+    "en": "leaf",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w394"
+  },
+  {
+    "bg": "птица",
+    "en": "bird",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w395"
+  },
+  {
+    "bg": "куче",
+    "en": "dog",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w396"
+  },
+  {
+    "bg": "котка",
+    "en": "cat",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w397"
+  },
+  {
+    "bg": "животно",
+    "en": "animal",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w398"
+  },
+  {
+    "bg": "риба",
+    "en": "fish",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w399"
+  },
+  {
+    "bg": "насекомо",
+    "en": "insect",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w400"
+  },
+  {
+    "bg": "сезон",
+    "en": "season",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w401"
+  },
+  {
+    "bg": "пролет",
+    "en": "spring",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w402"
+  },
+  {
+    "bg": "лято",
+    "en": "summer",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w403"
+  },
+  {
+    "bg": "есен",
+    "en": "autumn",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w404"
+  },
+  {
+    "bg": "зима",
+    "en": "winter",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w405"
+  },
+  {
+    "bg": "горещ",
+    "en": "hot",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w406"
+  },
+  {
+    "bg": "студен",
+    "en": "cold",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w407"
+  },
+  {
+    "bg": "слънчев",
+    "en": "sunny",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w408"
+  },
+  {
+    "bg": "облачен",
+    "en": "cloudy",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w409"
+  },
+  {
+    "bg": "дъждовен",
+    "en": "rainy",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w410"
+  },
+  {
+    "bg": "тих",
+    "en": "quiet",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w411"
+  },
+  {
+    "bg": "силен",
+    "en": "strong / loud",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w412"
+  },
+  {
+    "bg": "буря",
+    "en": "storm",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w413"
+  },
+  {
+    "bg": "гръмотевица",
+    "en": "thunder",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w414"
+  },
+  {
+    "bg": "мълния",
+    "en": "lightning",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w415"
+  },
+  {
+    "bg": "климат",
+    "en": "climate",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w416"
+  },
+  {
+    "bg": "влага",
+    "en": "humidity",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w417"
+  },
+  {
+    "bg": "суха",
+    "en": "dry",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w418"
+  },
+  {
+    "bg": "зелено",
+    "en": "green",
+    "category": "nature_weather",
+    "kind": "adjective",
+    "id": "w419"
+  },
+  {
+    "bg": "чист въздух",
+    "en": "clean air",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w420"
+  },
+  {
+    "bg": "замърсяване",
+    "en": "pollution",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w421"
+  },
+  {
+    "bg": "екология",
+    "en": "ecology",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w422"
+  },
+  {
+    "bg": "плаж",
+    "en": "beach",
+    "category": "nature_weather",
+    "kind": "noun",
+    "id": "w423"
+  },
+  {
+    "bg": "училище",
+    "en": "school",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w424"
+  },
+  {
+    "bg": "курс",
+    "en": "course",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w425"
+  },
+  {
+    "bg": "урок",
+    "en": "lesson",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w426"
+  },
+  {
+    "bg": "книга",
+    "en": "book",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w427"
+  },
+  {
+    "bg": "тетрадка",
+    "en": "notebook",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w428"
+  },
+  {
+    "bg": "химикалка",
+    "en": "pen",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w429"
+  },
+  {
+    "bg": "молив",
+    "en": "pencil",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w430"
+  },
+  {
+    "bg": "гума",
+    "en": "eraser",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w431"
+  },
+  {
+    "bg": "учител",
+    "en": "teacher",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w432"
+  },
+  {
+    "bg": "ученик",
+    "en": "student / pupil",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w433"
+  },
+  {
+    "bg": "студент",
+    "en": "student",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w434"
+  },
+  {
+    "bg": "език",
+    "en": "language",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w435"
+  },
+  {
+    "bg": "граматика",
+    "en": "grammar",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w436"
+  },
+  {
+    "bg": "речник",
+    "en": "dictionary",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w437"
+  },
+  {
+    "bg": "превод",
+    "en": "translation",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w438"
+  },
+  {
+    "bg": "тест",
+    "en": "test",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w439"
+  },
+  {
+    "bg": "упражнение",
+    "en": "exercise",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w440"
+  },
+  {
+    "bg": "резултат",
+    "en": "result",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w441"
+  },
+  {
+    "bg": "оценка",
+    "en": "grade / evaluation",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w442"
+  },
+  {
+    "bg": "сертификат",
+    "en": "certificate",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w443"
+  },
+  {
+    "bg": "диплома",
+    "en": "diploma",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w444"
+  },
+  {
+    "bg": "библиотека",
+    "en": "library",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w445"
+  },
+  {
+    "bg": "сайт",
+    "en": "website",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w446"
+  },
+  {
+    "bg": "приложение",
+    "en": "app",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w447"
+  },
+  {
+    "bg": "парола",
+    "en": "password",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w448"
+  },
+  {
+    "bg": "профил",
+    "en": "profile",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w449"
+  },
+  {
+    "bg": "акаунт",
+    "en": "account",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w450"
+  },
+  {
+    "bg": "данни",
+    "en": "data",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w451"
+  },
+  {
+    "bg": "интернет",
+    "en": "internet",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w452"
+  },
+  {
+    "bg": "екран",
+    "en": "screen",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w453"
+  },
+  {
+    "bg": "клавиатура",
+    "en": "keyboard",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w454"
+  },
+  {
+    "bg": "мишка",
+    "en": "mouse",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w455"
+  },
+  {
+    "bg": "зарядно",
+    "en": "charger",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w456"
+  },
+  {
+    "bg": "файл",
+    "en": "file",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w457"
+  },
+  {
+    "bg": "папка",
+    "en": "folder",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w458"
+  },
+  {
+    "bg": "сървър",
+    "en": "server",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w459"
+  },
+  {
+    "bg": "презентация",
+    "en": "presentation",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w460"
+  },
+  {
+    "bg": "аудитория",
+    "en": "audience / lecture hall",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w461"
+  },
+  {
+    "bg": "домашна работа",
+    "en": "homework",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w462"
+  },
+  {
+    "bg": "квалификация",
+    "en": "qualification",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w463"
+  },
+  {
+    "bg": "обучение",
+    "en": "training",
+    "category": "tech_education",
+    "kind": "noun",
+    "id": "w464"
+  },
+  {
+    "bg": "сертифициран",
+    "en": "certified",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w465"
+  },
+  {
+    "bg": "лесен",
+    "en": "easy",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w466"
+  },
+  {
+    "bg": "труден",
+    "en": "difficult",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w467"
+  },
+  {
+    "bg": "полезен",
+    "en": "useful",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w468"
+  },
+  {
+    "bg": "важен",
+    "en": "important",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w469"
+  },
+  {
+    "bg": "ясен",
+    "en": "clear",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w470"
+  },
+  {
+    "bg": "точен",
+    "en": "accurate / exact",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w471"
+  },
+  {
+    "bg": "нов",
+    "en": "new",
+    "category": "tech_education",
+    "kind": "adjective",
+    "id": "w472"
+  },
+  {
+    "bg": "човек",
+    "en": "person",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w473"
+  },
+  {
+    "bg": "жена",
+    "en": "woman",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w474"
+  },
+  {
+    "bg": "мъж",
+    "en": "man",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w475"
+  },
+  {
+    "bg": "семейство",
+    "en": "family",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w476"
+  },
+  {
+    "bg": "майка",
+    "en": "mother",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w477"
+  },
+  {
+    "bg": "баща",
+    "en": "father",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w478"
+  },
+  {
+    "bg": "сестра",
+    "en": "sister",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w479"
+  },
+  {
+    "bg": "брат",
+    "en": "brother",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w480"
+  },
+  {
+    "bg": "приятел",
+    "en": "friend",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w481"
+  },
+  {
+    "bg": "приятелка",
+    "en": "female friend / girlfriend",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w482"
+  },
+  {
+    "bg": "дете",
+    "en": "child",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w483"
+  },
+  {
+    "bg": "съпруг",
+    "en": "husband",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w484"
+  },
+  {
+    "bg": "съпруга",
+    "en": "wife",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w485"
+  },
+  {
+    "bg": "съсед",
+    "en": "neighbor",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w486"
+  },
+  {
+    "bg": "колега",
+    "en": "colleague",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w487"
+  },
+  {
+    "bg": "група",
+    "en": "group",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w488"
+  },
+  {
+    "bg": "разговор",
+    "en": "conversation",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w489"
+  },
+  {
+    "bg": "мнение",
+    "en": "opinion",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w490"
+  },
+  {
+    "bg": "идеи",
+    "en": "ideas",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w491"
+  },
+  {
+    "bg": "помощ",
+    "en": "help",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w492"
+  },
+  {
+    "bg": "доверие",
+    "en": "trust",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w493"
+  },
+  {
+    "bg": "уважение",
+    "en": "respect",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w494"
+  },
+  {
+    "bg": "любов",
+    "en": "love",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w495"
+  },
+  {
+    "bg": "свобода",
+    "en": "freedom",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w496"
+  },
+  {
+    "bg": "отговорност",
+    "en": "responsibility",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w497"
+  },
+  {
+    "bg": "цел",
+    "en": "goal",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w498"
+  },
+  {
+    "bg": "успех",
+    "en": "success",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w499"
+  },
+  {
+    "bg": "грешка",
+    "en": "mistake",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w500"
+  },
+  {
+    "bg": "избор",
+    "en": "choice",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w501"
+  },
+  {
+    "bg": "решение",
+    "en": "solution / decision",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w502"
+  },
+  {
+    "bg": "въздействие",
+    "en": "impact",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w503"
+  },
+  {
+    "bg": "причина",
+    "en": "reason",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w504"
+  },
+  {
+    "bg": "въпрос",
+    "en": "question",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w505"
+  },
+  {
+    "bg": "възможност",
+    "en": "opportunity",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w506"
+  },
+  {
+    "bg": "опит",
+    "en": "experience",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w507"
+  },
+  {
+    "bg": "знание",
+    "en": "knowledge",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w508"
+  },
+  {
+    "bg": "надежда",
+    "en": "hope",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w509"
+  },
+  {
+    "bg": "страна",
+    "en": "country / side",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w510"
+  },
+  {
+    "bg": "град",
+    "en": "city",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w511"
+  },
+  {
+    "bg": "село",
+    "en": "village",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w512"
+  },
+  {
+    "bg": "държава",
+    "en": "state / country",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w513"
+  },
+  {
+    "bg": "улица",
+    "en": "street",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w514"
+  },
+  {
+    "bg": "площад",
+    "en": "square",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w515"
+  },
+  {
+    "bg": "магазин",
+    "en": "store",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w516"
+  },
+  {
+    "bg": "адрес",
+    "en": "address",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w517"
+  },
+  {
+    "bg": "съдба",
+    "en": "fate",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w518"
+  },
+  {
+    "bg": "живот",
+    "en": "life",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w519"
+  },
+  {
+    "bg": "смисъл",
+    "en": "meaning",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w520"
+  },
+  {
+    "bg": "реалност",
+    "en": "reality",
+    "category": "people_abstract",
+    "kind": "noun",
+    "id": "w521"
+  }
+]
